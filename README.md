@@ -21,7 +21,8 @@ Please use GOOGLE to find these useful tools
 
 (C) 2020 The New Dimension
 
-http://tnd64.unikat.sk
+http://tnd64.dreamhosters.com
+(Website URL updated)
 
 
 The game and all of its source is classed as freeware. The game author grants permission for you to explore/improve the code and even attempt to make your own versions of this game. If you do use this project for any of your productions, please credit me **Richard/TND**for original build.
